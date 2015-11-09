@@ -11,7 +11,7 @@ Each of you will review the code of the others in your team.
 **Group 2:**
 * Miriam Baumann [repo]() / @
 * Anders Horner [repo]() / @
-* Miles Ingram [repo]() / @
+* Miles Ingram [repo](https://github.com/milesing/Final_Project.git) / @
 
 **Group 3:**
 * Nicholas Crudele [repo]() / @
